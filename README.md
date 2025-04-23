@@ -1,5 +1,5 @@
 # Fruit-image-classification"# Fruit-image-classification
- Dataset Link : 
+ Dataset Link :  https://drive.google.com/drive/folders/1Rbuv5k0-xI5mFvTiorjVIHrbxEFsi1h2?usp=sharing
 
 ### Step Follow For Run Code
 
