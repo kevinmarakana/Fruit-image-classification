@@ -3,6 +3,8 @@
 
 ### Step Follow For Run Code
 
+![result](https://github.com/user-attachments/assets/ab44369e-3b00-425c-abcc-50054d484058)
+
 ## Dataset
 - `image_data/train/`: Training dataset with subfolders named by fruit type.
 - `image_data/test/`: Testing dataset for final evaluation.
