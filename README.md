@@ -1,7 +1,7 @@
 # Fruit-image-classification"# Fruit-image-classification
  Dataset Link :  https://drive.google.com/drive/folders/1Rbuv5k0-xI5mFvTiorjVIHrbxEFsi1h2?usp=sharing
 
-### Step Follow For Run Code
+### Step Follow For Run Code and output
 
 ![result](https://github.com/user-attachments/assets/ab44369e-3b00-425c-abcc-50054d484058)
 
